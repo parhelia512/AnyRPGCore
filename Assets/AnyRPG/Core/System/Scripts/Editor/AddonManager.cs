@@ -34,7 +34,7 @@ namespace AnyRPG {
         public static void Open() {
             // Changing 'true' to 'false' allows the window to be docked 
             // and usually survives recompiles with its size intact much better.
-            AddonManager window = GetWindow<AddonManager>(false, "Addon Manager", true);
+            AddonManager window = GetWindow<AddonManager>(false, "AnyRPG Addon Manager", true);
             window.position = new Rect(100, 100, windowInitialWidth, windowInitialHeight); // Set a generous initial size
             window.Show();
         }
