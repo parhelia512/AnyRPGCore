@@ -175,41 +175,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 107535816584502590, guid: 364b569ec75208346bfeec88c3020809,
         type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.2786682
-      objectReference: {fileID: 0}
-    - target: {fileID: 107535816584502590, guid: 364b569ec75208346bfeec88c3020809,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.0920142
-      objectReference: {fileID: 0}
-    - target: {fileID: 107535816584502590, guid: 364b569ec75208346bfeec88c3020809,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.8924194
-      objectReference: {fileID: 0}
-    - target: {fileID: 107535816584502590, guid: 364b569ec75208346bfeec88c3020809,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.00000035762784
-      objectReference: {fileID: 0}
-    - target: {fileID: 107535816584502590, guid: 364b569ec75208346bfeec88c3020809,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 107535816584502590, guid: 364b569ec75208346bfeec88c3020809,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 107535816584502590, guid: 364b569ec75208346bfeec88c3020809,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 107535816584502590, guid: 364b569ec75208346bfeec88c3020809,
-        type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
@@ -295,6 +260,11 @@ MonoBehaviour:
     saveOnLevelUnload: 0
     saveOnGameSave: 0
   persistInteractableData: 0
+  hasNameplate: 0
+  namePlateProps:
+    displayName: 
+    overrideNameplatePosition: 0
+    namePlatePosition: {x: 0, y: 0, z: 0}
 --- !u!114 &6892021395462819327
 MonoBehaviour:
   m_ObjectHideFlags: 0
