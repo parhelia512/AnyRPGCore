@@ -1,10 +1,3 @@
-using AnyRPG;
-using System;
-using System.Collections;
-using TMPro;
-using UnityEngine;
-using UnityEngine.UI;
-
 namespace AnyRPG {
     public abstract class PortalComponent : InteractableOptionComponent {
 

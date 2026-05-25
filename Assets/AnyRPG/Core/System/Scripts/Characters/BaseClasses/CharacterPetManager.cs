@@ -1,10 +1,6 @@
-using AnyRPG;
-using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-using UnityEngine.AI;
 
 namespace AnyRPG {
     public class CharacterPetManager : ConfiguredClass, ICharacterRequestor {

@@ -1,6 +1,3 @@
-using System.Collections;
-using UnityEngine;
-
 namespace AnyRPG {
     public class GuildmasterComponent : InteractableOptionComponent {
 

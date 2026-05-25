@@ -1,4 +1,3 @@
-using AnyRPG;
 using UnityEngine;
 
 namespace AnyRPG {

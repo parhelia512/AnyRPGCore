@@ -1,7 +1,3 @@
-using System;
-using System.Collections;
-using UnityEngine;
-
 namespace AnyRPG {
     public class TeleportComponent : PortalComponent {
 

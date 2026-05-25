@@ -1,6 +1,5 @@
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
 namespace AnyRPG {
     public class PagedWindowContents : CloseableWindowContents {

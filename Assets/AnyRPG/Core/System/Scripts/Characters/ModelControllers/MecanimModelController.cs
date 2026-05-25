@@ -1,8 +1,5 @@
-using AnyRPG;
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.AI;
 
 namespace AnyRPG {
     public class MecanimModelController : ConfiguredClass {

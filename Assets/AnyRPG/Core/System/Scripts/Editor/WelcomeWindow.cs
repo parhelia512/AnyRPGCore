@@ -1,6 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
 using System.IO;
 using UnityEditor;
 using UnityEditor.Build.Profile;

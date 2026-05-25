@@ -1,6 +1,5 @@
 using System;
 using System.Security.Cryptography;
-using UnityEngine;
 
 namespace AnyRPG {
     public static class AuthenticationHelpers {

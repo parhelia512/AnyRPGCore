@@ -1,6 +1,3 @@
-using AnyRPG;
-using UnityEngine;
-
 namespace AnyRPG {
 
     public class CharacterPanelCameraController : PreviewCameraController {

@@ -1,7 +1,4 @@
-﻿using AnyRPG;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 // This script helps rotation constraints work properly by resetting rotation inertia settings, which can cause rotation constraints to not work properly
 

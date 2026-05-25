@@ -1,6 +1,3 @@
-using System;
-using UnityEngine;
-
 namespace AnyRPG {
     public class VendorManagerClient : InteractableOptionManager {
 

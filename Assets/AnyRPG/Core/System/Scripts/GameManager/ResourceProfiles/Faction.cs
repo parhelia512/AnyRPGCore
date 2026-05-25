@@ -1,7 +1,5 @@
-using AnyRPG;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Serialization;
 
 namespace AnyRPG {
     [CreateAssetMenu(fileName = "New Faction", menuName = "AnyRPG/Faction")]

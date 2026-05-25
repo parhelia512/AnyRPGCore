@@ -1,11 +1,6 @@
-using AnyRPG;
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-using UnityEngine.Audio;
-using UnityEngine.SceneManagement;
-using UnityEngine.Serialization;
 
 namespace AnyRPG {
     [CreateAssetMenu(fileName = "New Currency Group", menuName = "AnyRPG/Currencies/CurrencyGroup")]

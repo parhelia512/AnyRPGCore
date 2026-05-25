@@ -1,10 +1,5 @@
-using AnyRPG;
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Audio;
-using UnityEngine.Serialization;
-using UnityEngine.SceneManagement;
 
 namespace AnyRPG {
     [CreateAssetMenu(fileName = "New Weapon Type Config Template", menuName = "AnyRPG/System/WeaponTypeConfigTemplate")]

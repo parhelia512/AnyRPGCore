@@ -1,8 +1,5 @@
-using System;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.TextCore.Text;
-using UnityEngine.UIElements;
 
 namespace AnyRPG {
     public class CharacterEquipmentManager : EquipmentManager {

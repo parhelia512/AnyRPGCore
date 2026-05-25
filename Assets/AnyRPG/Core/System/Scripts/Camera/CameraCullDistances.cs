@@ -2,8 +2,6 @@
 /// Sets camera cull distance for all layers to 'MaxCloseDistance' except objects that are on 'alwaysVisibleLayer'
 /// </summary>
 
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 namespace AnyRPG{

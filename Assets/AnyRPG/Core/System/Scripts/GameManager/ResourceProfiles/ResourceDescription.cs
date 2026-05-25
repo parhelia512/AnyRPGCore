@@ -1,7 +1,4 @@
-using AnyRPG;
 using UnityEngine;
-using UnityEngine.Serialization;
-using System.Collections.Generic;
 
 namespace AnyRPG {
     [CreateAssetMenu(fileName = "New Resource Description", menuName = "AnyRPG/ResourceDescription")]

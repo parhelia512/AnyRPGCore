@@ -1,6 +1,4 @@
-﻿
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace AnyRPG {
     public class UUID : MonoBehaviour, ISerializationCallbackReceiver, IUUID {

@@ -1,6 +1,5 @@
 using UnityEngine;
 using TMPro;
-using System;
 
 namespace AnyRPG {
     public class CurrencyEntryAmountController : ConfiguredMonoBehaviour {

@@ -1,7 +1,3 @@
-using System.Collections.Generic;
-using System.Linq;
-using UnityEngine;
-
 namespace AnyRPG {
 
     //[CreateAssetMenu(fileName = "New AbilityEffect", menuName = "AnyRPG/Abilities/Effects/AbilityEffect")]

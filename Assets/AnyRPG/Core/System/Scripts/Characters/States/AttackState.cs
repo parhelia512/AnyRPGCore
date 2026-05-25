@@ -1,5 +1,3 @@
-using UnityEngine;
-
 namespace AnyRPG {
     public class AttackState : IState {
         private UnitController unitController;

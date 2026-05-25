@@ -1,11 +1,5 @@
-using AnyRPG;
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-using UnityEngine.Serialization;
-using UnityEngine.UI;
 
 namespace AnyRPG {
     [CreateAssetMenu(fileName = "New Chat Message Command", menuName = "AnyRPG/Chat Commands/Chat Message Command")]

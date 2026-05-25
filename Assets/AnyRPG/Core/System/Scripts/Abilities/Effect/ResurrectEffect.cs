@@ -1,5 +1,3 @@
-using AnyRPG;
-using System.Collections.Generic;
 using UnityEngine;
 
 namespace AnyRPG {

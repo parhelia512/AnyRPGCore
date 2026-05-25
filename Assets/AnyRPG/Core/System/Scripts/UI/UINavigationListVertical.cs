@@ -1,11 +1,4 @@
-﻿using AnyRPG;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.EventSystems;
-using UnityEngine.UI;
-
-namespace AnyRPG {
+﻿namespace AnyRPG {
     public class UINavigationListVertical : UINavigationController {
 
         public override void FocusCurrentButton() {

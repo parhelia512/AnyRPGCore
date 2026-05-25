@@ -1,8 +1,4 @@
-﻿using AnyRPG;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
+﻿using UnityEngine.UI;
 
 namespace AnyRPG {
     public class ColoredUIElement : ConfiguredMonoBehaviour {

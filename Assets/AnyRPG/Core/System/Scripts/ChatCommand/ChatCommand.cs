@@ -1,11 +1,3 @@
-using AnyRPG;
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.Serialization;
-using UnityEngine.UI;
-
 namespace AnyRPG {
     //[CreateAssetMenu(fileName = "New Chat Command", menuName = "AnyRPG/ChatCommand")]
     public abstract class ChatCommand : DescribableResource {

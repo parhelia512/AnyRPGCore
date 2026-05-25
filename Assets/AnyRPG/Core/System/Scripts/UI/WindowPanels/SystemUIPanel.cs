@@ -1,8 +1,5 @@
-using AnyRPG;
 using UnityEngine;
-using System.Collections;
 using UnityEngine.UI;
-using TMPro;
 
 namespace AnyRPG {
     public class SystemUIPanel : WindowPanel {

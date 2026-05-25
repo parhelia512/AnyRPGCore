@@ -1,8 +1,4 @@
-﻿using AnyRPG;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.Audio;
+﻿using UnityEngine;
 
 namespace AnyRPG {
     public class UnitAudioEmitter : MonoBehaviour {

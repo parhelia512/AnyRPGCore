@@ -1,7 +1,5 @@
-using AnyRPG;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.AI;
 
 namespace AnyRPG {
     public class PatrolController : ConfiguredClass {

@@ -1,5 +1,3 @@
-using AnyRPG;
-using System.Drawing.Text;
 using UnityEngine;
 using UnityEngine.EventSystems;
 

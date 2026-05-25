@@ -1,8 +1,4 @@
-using AnyRPG;
 using UnityEngine;
-using UnityEngine.Serialization;
-using System;
-using System.Collections.Generic;
 
 namespace AnyRPG {
     [CreateAssetMenu(fileName = "NewCurrency", menuName = "AnyRPG/Currencies/Currency")]

@@ -1,11 +1,6 @@
-using AnyRPG;
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Audio;
 using UnityEngine.Serialization;
-using UnityEngine.SceneManagement;
-using UnityEngine.UI;
 
 namespace AnyRPG {
     [CreateAssetMenu(fileName = "New Unit Toughness", menuName = "AnyRPG/UnitToughness")]

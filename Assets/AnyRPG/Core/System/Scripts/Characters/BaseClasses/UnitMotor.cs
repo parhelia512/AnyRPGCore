@@ -1,5 +1,3 @@
-using AnyRPG;
-using System;
 using UnityEngine;
 using UnityEngine.AI;
 

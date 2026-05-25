@@ -1,5 +1,3 @@
-using UnityEngine;
-
 namespace AnyRPG {
     public abstract class PortalInteractable : InteractableOption {
         /*

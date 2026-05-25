@@ -1,8 +1,3 @@
-using AnyRPG;
-using System.Collections;
-using UnityEngine;
-using UnityEngine.AI;
-
 namespace AnyRPG {
     public class PetPreviewManager : PreviewManager {
 

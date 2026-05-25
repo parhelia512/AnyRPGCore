@@ -1,5 +1,3 @@
-using System;
-
 namespace AnyRPG {
 
     public class CreateMailMessageResponse {

@@ -1,7 +1,6 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.TextCore.Text;
 
 namespace AnyRPG {
     public class CharacterGroupServiceClient : ConfiguredClass {

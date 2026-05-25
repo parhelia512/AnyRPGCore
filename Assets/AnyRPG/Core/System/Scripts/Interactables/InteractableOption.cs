@@ -1,5 +1,3 @@
-using UnityEngine;
-
 namespace AnyRPG {
     public abstract class InteractableOption : ConfiguredMonoBehaviour {
 

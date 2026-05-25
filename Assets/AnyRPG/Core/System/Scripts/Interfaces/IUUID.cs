@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using UnityEngine;
-
-namespace AnyRPG {
+﻿namespace AnyRPG {
     public interface IUUID {
 
         string ID { get; set; }
